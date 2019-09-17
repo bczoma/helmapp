@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  my-app:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-09-17T20:44:39.250400077Z"
+    description: A Helm chart for Kubernetes
+    digest: 13e205157939d987e1426309062d5220ed15bbed3e8031af4032d501a42ffee1
+    name: my-app
+    urls:
+    - https://bczoma.github.io/helmapp/my-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-09-17T20:44:39.246351174Z"
